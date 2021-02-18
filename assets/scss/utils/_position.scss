@@ -1,0 +1,15 @@
+.position-absolute {
+  position: absolute;
+}
+
+.position-relative {
+  position: relative;
+}
+
+.z {
+  @each $key, $value in $z-indexes {
+    &-#{$key} {
+      z-index: $value;
+    }
+  }
+}

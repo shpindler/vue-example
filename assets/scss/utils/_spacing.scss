@@ -1,0 +1,116 @@
+.ma,
+.m {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      margin: $value !important;
+    }
+  }
+}
+
+.mx {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      margin-right: $value !important;
+      margin-left: $value !important;
+    }
+  }
+}
+
+.my {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      margin-top: $value !important;
+      margin-bottom: $value !important;
+    }
+  }
+}
+
+.mt {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      margin-top: $value !important;
+    }
+  }
+}
+
+.mr {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      margin-right: $value !important;
+    }
+  }
+}
+
+.mb {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      margin-bottom: $value !important;
+    }
+  }
+}
+
+.ml {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      margin-left: $value !important;
+    }
+  }
+}
+
+.pa {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      padding: $value !important;
+    }
+  }
+}
+
+.px {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      padding-right: $value !important;
+      padding-left: $value !important;
+    }
+  }
+}
+
+.py {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      padding-top: $value !important;
+      padding-bottom: $value !important;
+    }
+  }
+}
+
+.pt {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      padding-top: $value !important;
+    }
+  }
+}
+
+.pr {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      padding-right: $value !important;
+    }
+  }
+}
+
+.pb {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      padding-bottom: $value !important;
+    }
+  }
+}
+
+.pl {
+  @each $key, $value in $offsets {
+    &-#{$key} {
+      padding-left: $value !important;
+    }
+  }
+}

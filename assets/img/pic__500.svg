@@ -1,0 +1,81 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 468 182">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #e3432d;
+        stroke-width: 4px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+    </style>
+  </defs>
+  <title>Монтажная область 1</title>
+  <g id="Типовые-элементы">
+    <g id="_500" data-name="500">
+      <g id="Group">
+        <rect id="Rectangle" class="cls-1" x="164" y="143" width="124" height="36" rx="4" ry="4"/>
+        <rect id="Rectangle-Copy-2" class="cls-1" x="164" y="94" width="124" height="36" rx="4" ry="4"/>
+        <rect id="Rectangle-Copy-4" class="cls-1" x="170" y="130" width="113" height="13" rx="4" ry="4"/>
+        <rect id="Rectangle-Copy" class="cls-1" x="164" y="143" width="137" height="36" rx="4" ry="4"/>
+        <rect id="Rectangle-Copy-3" class="cls-1" x="164" y="94" width="137" height="36" rx="4" ry="4"/>
+        <rect id="Rectangle-Copy-5" class="cls-1" x="170" y="130" width="124" height="13" rx="4" ry="4"/>
+        <rect id="Rectangle-Copy-4-2" data-name="Rectangle-Copy-4" class="cls-1" x="170" y="2" width="113" height="92" rx="4" ry="4"/>
+        <rect id="Rectangle-Copy-5-2" data-name="Rectangle-Copy-5" class="cls-1" x="170" y="2" width="124" height="92" rx="4" ry="4"/>
+        <path id="Path-3-Copy" class="cls-2" d="M196,53h87"/>
+        <path id="Path-3-Copy-2" data-name="Path-3-Copy" class="cls-2" d="M196,42h87"/>
+        <path id="Path-3-Copy-2-2" data-name="Path-3-Copy-2" class="cls-2" d="M170,26H283"/>
+        <circle id="Oval" class="cls-1" cx="185" cy="14" r="4"/>
+        <circle id="Oval-Copy" class="cls-1" cx="203" cy="14" r="4"/>
+        <circle id="Oval-Copy-3" class="cls-1" cx="192" cy="112" r="7"/>
+        <circle id="Oval-Copy-3-2" data-name="Oval-Copy-3" class="cls-1" cx="127.5" cy="92.5" r="5.5"/>
+        <circle id="Oval-Copy-7" class="cls-1" cx="127.5" cy="114.5" r="5.5"/>
+        <circle id="Oval-Copy-10" class="cls-1" cx="127.5" cy="69.5" r="5.5"/>
+        <circle id="Oval-Copy-9" class="cls-1" cx="94" cy="115" r="4"/>
+        <circle id="Oval-Copy-11" class="cls-1" cx="94" cy="67" r="4"/>
+        <circle id="Oval-Copy-5" class="cls-1" cx="336.5" cy="92.5" r="5.5"/>
+        <circle id="Oval-Copy-6" class="cls-1" cx="384.5" cy="93.5" r="11"/>
+        <circle id="Oval-Copy-6-2" data-name="Oval-Copy-6" class="cls-1" cx="74" cy="94" r="11"/>
+        <circle id="Oval-Copy-8" class="cls-1" cx="94" cy="154" r="11"/>
+        <circle id="Oval-Copy-12" class="cls-1" cx="94" cy="33" r="11"/>
+        <circle id="Oval-Copy-4" class="cls-1" cx="192" cy="161" r="7"/>
+        <path id="Rectangle-2" data-name="Rectangle" class="cls-1" d="M215.5,103a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,215.5,103Z"/>
+        <path id="Rectangle-Copy-10" class="cls-1" d="M215.5,152a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,215.5,152Z"/>
+        <path id="Rectangle-Copy-6" class="cls-1" d="M228.5,103a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,228.5,103Z"/>
+        <path id="Rectangle-Copy-11" class="cls-1" d="M228.5,152a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,228.5,152Z"/>
+        <path id="Rectangle-Copy-7" class="cls-1" d="M242.5,103a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,242.5,103Z"/>
+        <path id="Rectangle-Copy-12" class="cls-1" d="M242.5,152a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,242.5,152Z"/>
+        <path id="Rectangle-Copy-8" class="cls-1" d="M256.5,103a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,256.5,103Z"/>
+        <path id="Rectangle-Copy-13" class="cls-1" d="M256.5,152a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,256.5,152Z"/>
+        <path id="Rectangle-Copy-9" class="cls-1" d="M270.5,103a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,270.5,103Z"/>
+        <path id="Rectangle-Copy-14" class="cls-1" d="M270.5,152a3.5,3.5,0,0,1,3.5,3.5v11a3.5,3.5,0,0,1-7,0v-11A3.5,3.5,0,0,1,270.5,152Z"/>
+        <circle id="Oval-Copy-2" class="cls-1" cx="219" cy="14" r="4"/>
+        <path id="Path-3-Copy-3" class="cls-2" d="M294,93.5h37"/>
+        <path id="Path-3-Copy-5" class="cls-2" d="M342,93h31"/>
+        <path id="Path-3" class="cls-2" d="M2,179.5H465.5"/>
+        <path id="Path-3-Copy-4" class="cls-2" d="M133,93h37"/>
+        <path id="Path-3-Copy-6" class="cls-2" d="M85,93.5h37"/>
+        <path id="Path-3-Copy-7" class="cls-2" d="M133,114.5h31"/>
+        <path id="Path-3-Copy-8" class="cls-2" d="M99,114.5h23"/>
+        <path id="Path-3-Copy-8-2" data-name="Path-3-Copy-8" class="cls-2" d="M94,120v23"/>
+        <circle id="Oval-Copy-7-2" data-name="Oval-Copy-7" class="cls-1" cx="336.5" cy="114.5" r="5.5"/>
+        <circle id="Oval-Copy-13" class="cls-1" cx="336.5" cy="69.5" r="5.5"/>
+        <circle id="Oval-Copy-9-2" data-name="Oval-Copy-9" class="cls-1" cx="371" cy="115" r="4"/>
+        <circle id="Oval-Copy-14" class="cls-1" cx="371" cy="67" r="4"/>
+        <circle id="Oval-Copy-8-2" data-name="Oval-Copy-8" class="cls-1" cx="371" cy="154" r="11"/>
+        <circle id="Oval-Copy-15" class="cls-1" cx="371" cy="33" r="11"/>
+        <path id="Path-3-Copy-8-3" data-name="Path-3-Copy-8" class="cls-2" d="M371,120v23"/>
+        <path id="Path-3-Copy-8-4" data-name="Path-3-Copy-8" class="cls-2" d="M342,114.5h23"/>
+        <path id="Path-3-Copy-7-2" data-name="Path-3-Copy-7" class="cls-2" d="M302,114.5h29"/>
+        <path id="Path-3-Copy-10" class="cls-2" d="M99,69.5h23"/>
+        <path id="Path-3-Copy-13" class="cls-2" d="M342,69.5h25"/>
+        <path id="Path-3-Copy-11" class="cls-2" d="M94,44V63"/>
+        <path id="Path-3-Copy-12" class="cls-2" d="M371,44V63"/>
+        <path id="Path-3-Copy-9" class="cls-2" d="M135,69.5h33"/>
+        <path id="Path-3-Copy-14" class="cls-2" d="M295,69.5h34"/>
+      </g>
+    </g>
+  </g>
+</svg>

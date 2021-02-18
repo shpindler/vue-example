@@ -1,0 +1,46 @@
+.clickable {
+  cursor: pointer;
+}
+
+.rounded {
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.border {
+  border-width: 1px;
+  border-style: solid;
+
+  @each $direction in (top, right, bottom, left) {
+    &-#{$direction} {
+      border-#{$direction}-width: 1px;
+      border-#{$direction}-style: solid;
+    }
+  }
+
+  &-none {
+    border: none;
+  }
+}
+
+.overflow-hidden {
+  overflow: hidden;
+}
+
+.text-truncate {
+  text-overflow: ellipsis;
+}
+
+.brightness-on-hover {
+  &:hover {
+    filter: brightness(1.5);
+  }
+}
+
+.transitioned {
+  transition: 0.2s;
+}

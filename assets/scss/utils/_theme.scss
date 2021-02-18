@@ -1,0 +1,11 @@
+@each $key, $value in map_get($theme, colors) {
+  :root {
+    --#{$key}: #{$value}
+  }
+}
+
+:root {
+  --footerHeight: 40px;
+  --toolbarWidth: 80px;
+  --scrollbarSize: 9px;
+}

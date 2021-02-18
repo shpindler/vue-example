@@ -1,0 +1,24 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1{fill:#fff;}.cls-2{fill:#e3432d;}.cls-2,.cls-3,.cls-4{fill-rule:evenodd;}.cls-3{fill:#4e6a7c;}.cls-4{fill:#ccdcea;}
+    </style>
+  </defs>
+  <title>Монтажная область 1</title>
+  <g id="Group">
+    <g id="Group-2">
+      <g id="Group-3">
+        <g id="Group-4">
+          <g id="Group-5">
+            <polygon class="cls-2"
+                     points="98.26 78.49 94.02 68.95 94.18 55.34 91.88 56.63 91.82 69.26 87.72 78.49 98.26 78.49"/>
+            <path id="Path-3" class="cls-3"
+                  d="M19.86,50.86,58.75,65.57a.8.8,0,0,0,.55,0l40.83-14.73a.8.8,0,0,0,.48-1,.79.79,0,0,0-.46-.47L60.63,34a.8.8,0,0,0-.57,0L19.85,49.37a.8.8,0,0,0,0,1.49Z"/>
+            <polygon id="Path-4" class="cls-4"
+                     points="36.97 60.9 58.82 68.8 80.67 60.9 80.67 76.05 58.82 83.94 36.97 76.05 36.97 60.9"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

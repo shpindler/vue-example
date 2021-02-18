@@ -1,0 +1,10 @@
+$theme: (
+  colors: (
+    primary: map_get($colors, red),
+    secondary: map_get($colors, darkest),
+    neutral: map_get($colors, gray),
+    warning: #ffc107,
+    info: map_get($colors, dark),
+    error: map_get($colors, dark-red)
+  )
+);

@@ -1,0 +1,14 @@
+html {
+  overflow-y: unset;
+}
+
+body {
+  margin: 0;
+  color: map_get($colors, darkest);
+  font-family: "Tahoma", "Arial", sans-serif;
+}
+
+a {
+  color: map_get($colors, dark-gray);
+  font-family: inherit;
+}

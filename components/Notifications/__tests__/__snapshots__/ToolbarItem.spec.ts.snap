@@ -1,0 +1,32 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NotificationToolbarItem корректно отображается по умолчанию. 1`] = `
+<workspace-toolbar-item-stub
+  class="notificationsAction"
+  icon="build"
+  title="Уведомления"
+  witharrow="true"
+>
+   
+  <!---->
+</workspace-toolbar-item-stub>
+`;
+
+exports[`NotificationToolbarItem корректно отображается с непросмотренными уведомлениями. 1`] = `
+<workspace-toolbar-item-stub
+  class="notificationsAction"
+  icon="build"
+  title="Уведомления"
+  witharrow="true"
+>
+   
+  <section
+    class="notificationsAction__counter"
+    data-testid="count"
+  >
+    
+    1
+  
+  </section>
+</workspace-toolbar-item-stub>
+`;

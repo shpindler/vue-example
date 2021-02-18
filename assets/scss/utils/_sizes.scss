@@ -1,0 +1,20 @@
+.font-size {
+  @each $key, $value in $font-sizes {
+    &-#{$key} {
+      font-size: $value !important;
+    }
+  }
+}
+
+.h-100,
+.fill-height {
+  height: 100% !important;
+}
+
+.h-fullscreen {
+  height: 100vh !important;
+}
+
+.w-100 {
+  width: 100% !important;
+}

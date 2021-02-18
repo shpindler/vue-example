@@ -1,0 +1,23 @@
+.text {
+  @each $key, $value in $colors {
+    &-#{"" + $key} {
+      color: nth($value, 1) !important;
+    }
+  }
+}
+
+.bg {
+  @each $key, $value in $colors {
+    &-#{"" + $key} {
+      background-color: nth($value, 1) !important;
+    }
+  }
+}
+
+.border {
+  @each $key, $value in $colors {
+    &-#{"" + $key} {
+      border-color: nth($value, 1) !important;
+    }
+  }
+}

@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Notification корректно отображается. 1`] = `
+<vue-row-stub
+  class="notification"
+  style="background-color: transparent;"
+  tag="article"
+>
+  <vue-col-stub
+    align-self="center"
+    class="notification__section"
+    cols="auto"
+    tag="section"
+  >
+    <vue-icon-stub
+      data-testid="image"
+      size="30"
+      style="color: rgb(255, 192, 33);"
+    >
+      
+      error
+    
+    </vue-icon-stub>
+  </vue-col-stub>
+   
+  <vue-col-stub
+    class="notification__section"
+    tag="section"
+  >
+    <h2
+      class="notification__title"
+      data-testid="title"
+    >
+      
+      22
+      
+      <time
+        class="notification__date"
+        data-testid="date"
+      >
+        
+        10.10.2000
+      
+      </time>
+    </h2>
+     
+    <div
+      class="notification__text"
+      data-testid="text"
+      lang="ru"
+    >
+      Тестовое уведомление.
+    </div>
+  </vue-col-stub>
+</vue-row-stub>
+`;

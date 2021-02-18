@@ -1,0 +1,50 @@
+<svg id="Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     viewBox="0 0 120 120">
+  <defs>
+    <style>
+      .cls-1,.cls-2{fill:#fff;}.cls-1,.cls-3,.cls-5,.cls-8{fill-rule:evenodd;}.cls-3{fill:#e3432d;}.cls-4{mask:url(#mask);}.cls-5{fill:#ccdcea;}.cls-6{mask:url(#mask-2);}.cls-7{mask:url(#mask-3);}.cls-8{fill:#4e6a7c;}
+    </style>
+    <mask id="mask" x="39.99" y="29" width="9" height="12.63" maskUnits="userSpaceOnUse">
+      <g id="mask-4">
+        <polygon id="path-3" class="cls-1" points="39.99 29 48.99 29 48.99 41.63 39.99 41.63 39.99 29"/>
+      </g>
+    </mask>
+    <mask id="mask-2" x="72.23" y="29" width="8" height="12.63" maskUnits="userSpaceOnUse">
+      <g id="mask-6">
+        <polygon id="path-5" class="cls-1" points="72.23 29 80.23 29 80.23 41.63 72.23 41.63 72.23 29"/>
+      </g>
+    </mask>
+    <mask id="mask-3" x="29.06" y="33.66" width="61.89" height="55.34" maskUnits="userSpaceOnUse">
+      <g id="mask-8">
+        <polygon id="path-7" class="cls-1" points="29.06 33.66 90.94 33.66 90.94 89 29.06 89 29.06 33.66"/>
+      </g>
+    </mask>
+  </defs>
+  <title>Монтажная область 20</title>
+  <g id="study_process_icon" data-name="study process icon">
+    <g id="Group-14">
+      <path id="Fill-1" class="cls-3"
+            d="M54,77h3V61H54.48a4.22,4.22,0,0,1-.46,1.6A3.11,3.11,0,0,1,51.68,64c-.46,0-.93.23-1.63.23v2.28h4V77"/>
+      <path id="Fill-3" class="cls-3"
+            d="M64,77h3V61H64.48a4.24,4.24,0,0,1-.47,1.6c-.23.46-.7.69-.93.91a3.35,3.35,0,0,1-1.4.46c-.47,0-.93.23-1.63.23v2.28h4V77"/>
+      <g id="Group-7">
+        <g class="cls-4">
+          <path id="Fill-5" class="cls-5"
+                d="M41.32,41.63h5.33A1.19,1.19,0,0,0,48,40.46V30.17A1.2,1.2,0,0,0,46.65,29H41.32A1.19,1.19,0,0,0,40,30.17V40.7c0,.47.53.93,1.33.93"/>
+        </g>
+      </g>
+      <g id="Group-10">
+        <g class="cls-6">
+          <path id="Fill-8" class="cls-5"
+                d="M73.78,41.63h5.16a1.16,1.16,0,0,0,1.29-1.17V30.17A1.16,1.16,0,0,0,78.94,29H73.78c-.77,0-1.55.47-1.55,1.17V40.7c0,.47.78.93,1.55.93"/>
+        </g>
+      </g>
+      <g id="Group-13">
+        <g class="cls-7">
+          <path id="Fill-11" class="cls-8"
+                d="M83.91,33.66H82.32v6.55a3.82,3.82,0,0,1-3.85,3.84H73.93a3.77,3.77,0,0,1-3.85-3.62V33.88H50.14v6.55a3.81,3.81,0,0,1-3.86,3.84H41.75a3.81,3.81,0,0,1-3.85-3.84V33.88H36.31a7.14,7.14,0,0,0-7.25,7.23V81.77A7.14,7.14,0,0,0,36.31,89H83.68a7.14,7.14,0,0,0,7.25-7.23V41.11a7,7,0,0,0-7-7.45ZM86.4,81.55a2.61,2.61,0,0,1-2.72,2.71H36.31a2.61,2.61,0,0,1-2.72-2.71V54.21H86.4Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

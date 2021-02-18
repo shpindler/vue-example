@@ -1,0 +1,12 @@
+@mixin ie {
+  @media all and (-ms-high-contrast: none) {
+    @content;
+  }
+}
+
+@mixin ieFullScreen {
+  @include ie {
+    height: calc(100vh - 40px);
+    overflow: auto;
+  }
+}
